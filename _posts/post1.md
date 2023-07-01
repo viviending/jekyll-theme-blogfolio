@@ -8,8 +8,12 @@ linweiding@smail.nju.edu.cn
 
 ---
 layout: post
-title: "Wechat"
+title: "Google Scholar"
 date: 2023-07-01 
 ---
 
-lwding325
+https://scholar.google.com/citations?user=6Qbd9kAAAAAJ&hl=zh-CN
+
+
+
+
