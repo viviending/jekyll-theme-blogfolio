@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2017-06-09 12:00:00 -0500
+title: "Publications"
 ---
 
-Hey, it's just my first post!
+Linwei Ding's Publications
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
-"The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee."
+title: "Research on the Transformation of the Function of Xiashi Illumination: the Transformation from Ornamental to Practical / 论硖石灯彩功能转型——由观赏型向实用型的转变"
+collection: publication
 
-"Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing."
+date: 2019-12-15 
+venue: 'Popular Literature And Art'
+---
+[Download paper here](http://viviending.github.io/linweiding/files/1.pdf)
+---
+Citation: 丁林未.(2019).论硖石灯彩功能转型——由观赏型向实用型的转变. 大众文艺(23),7-8.
+
