@@ -1,16 +1,17 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
+name: Linwei DING
+email: linweiding@smail.nju.edu.cn
+url: 
+description: "Graduate Student, School of Arts, Nanjing University. Email: linweiding@smail.nju.edu.cn"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
-github:
-  username: username
 
 twitter:
-  username: username
+  username: ding_linwei
+
+linkedin:
+  username: linwei-ding-6570b419b
