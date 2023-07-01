@@ -3,8 +3,8 @@ name: Linwei DING
 email: linweiding@smail.nju.edu.cn
 url: 
 description: "Graduate Student, School of Arts, Nanjing University. Email: linweiding@smail.nju.edu.cn"
-author: "author"
-title: "BlogFolio"
+author: "Linwei DING"
+title: "Linwei DING"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
@@ -13,5 +13,3 @@ baseurl: /jekyll-theme-blogfolio
 twitter:
   username: ding_linwei
 
-linkedin:
-  username: linwei-ding-6570b419b
